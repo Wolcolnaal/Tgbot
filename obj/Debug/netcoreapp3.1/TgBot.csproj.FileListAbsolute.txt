@@ -1,0 +1,17 @@
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.exe
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.deps.json
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.runtimeconfig.json
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.runtimeconfig.dev.json
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.dll
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\TgBot.pdb
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.csproj.AssemblyReference.cache
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.AssemblyInfoInputs.cache
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.AssemblyInfo.cs
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.csproj.CoreCompileInputs.cache
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.dll
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.pdb
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.genruntimeconfig.cache
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\Newtonsoft.Json.dll
+C:\Users\38063\source\repos\TgBot\bin\Debug\netcoreapp3.1\Telegram.Bot.dll
+C:\Users\38063\source\repos\TgBot\obj\Debug\netcoreapp3.1\TgBot.csproj.CopyComplete
